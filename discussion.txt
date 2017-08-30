@@ -2,5 +2,7 @@ This is testing push.
 
 This could also be discussion, comment, note, suggestion etc.
 
-8/19 [wc] We could try angularJS.  Feel free to comment.
-
+8/29 [wc] We could try angularJS.  Feel free to comment.
+8/30 [wc] I found this snippet for transit we may be able to borrow:
+https://stackoverflow.com/questions/41435660/google-directions-how-to-get-transit-details
+This does not use AJAX.
