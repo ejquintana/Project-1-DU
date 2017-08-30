@@ -1,3 +1,6 @@
 This is testing push.
 
 This could also be discussion, comment, note, suggestion etc.
+
+8/19 [wc] We could try angularJS.  Feel free to comment.
+
