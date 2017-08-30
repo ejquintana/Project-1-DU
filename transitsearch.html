@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>transit page</title>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCMmYZlGfP_9f2Prq5sCqvSfpp5D3s7EoU&"
+  type="text/javascript"></script>
+  </head>
+<body>
+	<div id="transit">
+	<form id="myform"> 
+	<label>From Address: 
+		<input type="text" id="input-text"> 
+		To: 
+		<input type="text" id="input-text-to"> 
+		<input type="submit" id="submit" value="search">
+ 	</label>
+	</form>
+	</div> 
+
+	<div id="panel" style="width: 300px; float: left;"></div>
+	  <div id="map" style="width: 300px; height: 300px;"></div>
+		
+	</div>
+	
+
+
+
+<script type="text/javascript" src="assets/javascript/transit.js"></script>
+</body>
+</html>
